@@ -1,0 +1,22 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 18px;
+}
+
+header, footer {
+    background-color: turquoise;
+}
+
+.site-title {
+    color:green
+}
+
+#my-image {
+    box-shadow:0 0 2px 1px black
+}
+
+ul {list-style: square;
+}
+
+ul li:nth-child(odd) {
+    background-color: maroon;
+}
